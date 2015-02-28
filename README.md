@@ -1,2 +1,4 @@
 # Hello-world
-Just a Repository!
+Hey everyone,
+
+It is just a Repository!
